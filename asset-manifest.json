@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.7dc0d82e.chunk.css",
+    "main.css": "/myportfolio/static/css/main.6cb7bd05.chunk.css",
     "main.js": "/myportfolio/static/js/main.5cfb3224.chunk.js",
     "main.js.map": "/myportfolio/static/js/main.5cfb3224.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.9b06ee36.js",
@@ -10,7 +10,7 @@
     "static/js/3.73681282.chunk.js": "/myportfolio/static/js/3.73681282.chunk.js",
     "static/js/3.73681282.chunk.js.map": "/myportfolio/static/js/3.73681282.chunk.js.map",
     "index.html": "/myportfolio/index.html",
-    "static/css/main.7dc0d82e.chunk.css.map": "/myportfolio/static/css/main.7dc0d82e.chunk.css.map",
+    "static/css/main.6cb7bd05.chunk.css.map": "/myportfolio/static/css/main.6cb7bd05.chunk.css.map",
     "static/js/2.857a7937.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.857a7937.chunk.js.LICENSE.txt",
     "static/media/airbnb.c87c346b.PNG": "/myportfolio/static/media/airbnb.c87c346b.PNG",
     "static/media/bg.02ff47cb.jpg": "/myportfolio/static/media/bg.02ff47cb.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.9b06ee36.js",
     "static/js/2.857a7937.chunk.js",
-    "static/css/main.7dc0d82e.chunk.css",
+    "static/css/main.6cb7bd05.chunk.css",
     "static/js/main.5cfb3224.chunk.js"
   ]
 }
